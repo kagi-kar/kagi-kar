@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kagi-kar
 - 👀 I’m interested in data analyzing
 - 🌱 I’m currently learning sql, phyton, power bi
-- 💞️ I’m looking to collaborate on data analyzing
 - 📫 How to reach me: whatsapp +79099391376
 
 <!---
